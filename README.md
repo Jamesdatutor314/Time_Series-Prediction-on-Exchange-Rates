@@ -9,7 +9,7 @@ Conducted a time series analysis to forecast the price of the Euro against the U
 
 
 # Files
-For the "presentation1" series, a Jupyter Notebook was created to detail the data analysis, utilizing Python libraries for effective data manipulation and visualization. This was further translated into a cPDF report and a reusable standalone Python script for broader accessibility. Similarly, the "project1" series emphasized feature engineering, with a Jupyter Notebook illustrating the exploration and generation of new dataset features. This work was also documented in a PDF format and accompanied by a modular Python script, ensuring both the depth of analysis and adaptability for various audiences and systems. The "files" folder contains the datasets.
+The primary focus revolves around employing Python for predictive analytics on exchange rate data. The heart of the analysis can be found within "TS Project.ipynb", a Python-based Jupyter Notebook, which encompasses the entire data processing, visualization, and modeling process. For those who prefer a concise overview of the findings and methodologies, "TS Project.pdf" offers a distilled version of the notebook's content. Additionally, "TS Project.py" provides direct access to the main Python scripts used throughout the project, facilitating easy replication or adaptation of the work for future research or application.
 
 # Analysis 
 - Verified autocorrelation, stationarity, and seasonality properties of time series.
