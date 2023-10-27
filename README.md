@@ -1,4 +1,4 @@
-# Exchange-Rates Using Time Series (Animated Video Presentation)
+# Exchange Rates Using Time Series (Animated Video Presentation)
 
 Video: https://drive.google.com/file/d/1yTRCoIgJOTQsRsvKEQgM2uhyPGqkSQqa/view
 
